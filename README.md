@@ -41,20 +41,10 @@ Here are some of the exciting data projects I’ve worked on:
 ---
 
 ### 📊 [Netflix Content Analysis with Power BI ](https://github.com/Shreyasi-Kundu/Netflix-Content-Analysis)
-This project began with my curiosity around Netflix’s vast content library — I wanted to understand what makes certain titles stand out. I came across a publicly available dataset on Kaggle that contains comprehensive information about Netflix movies and TV shows, including their release year, genres, countries, and ratings.I began exploring and cleaning the data — filtering out duplicates, handling null values, and creating custom columns to categorize content types and release timelines.
+This project began with my curiosity around Netflix’s vast content library — I wanted to understand what makes certain titles stand out. A Power BI project where I analyzed Netflix's global content library using data from Kaggle. From exploring genre popularity and country-wise production to comparing ratings between TV Shows and Movies — this dashboard reveals key trends in Netflix’s content strategy.
+Key KPIs include:
+📅 Content Release Trends 🌍 Country Leaders 🎭 Genre Popularity ⭐ Average Ratings
+Insight: TV Shows score higher (avg. 7.18) than Movies (avg. 6.53), with a content boom from 2015–2020.
 
-My goal was to uncover key insights around Netflix's content strategy. I built a series of dynamic dashboards focusing on core KPIs like:
+🔎 Dive into the dashboard to explore what's trending on Netflix — interactively and visually.
 
-📅 Content Release Trends — What years saw the most releases?
-
-🌍 Country-Wise Production — Which countries are leading in content creation?
-
-🎭 Popular Genres — What types of shows dominate Netflix?
-
-⭐ Average Ratings — How do TV shows compare to movies in terms of quality?
-
-📈 Top-Rated Content by Country & Genre
-
-During the analysis, I discovered that TV Shows have a higher average rating (7.18) compared to Movies (6.53). I also noted a significant boom in original content between 2015–2020, especially from countries like the USA, India, and the UK.
-
-To make the dashboard truly interactive, I added slicers and filters so viewers can explore trends by genre, country, or type. The end result was a visual storytelling experience powered by data — helping viewers uncover what’s trending on Netflix with just a few clicks.
