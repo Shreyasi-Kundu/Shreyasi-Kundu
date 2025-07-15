@@ -42,9 +42,13 @@ Here are some of the exciting data projects I’ve worked on:
 
 ### 📊 [Netflix Content Analysis with Power BI ](https://github.com/Shreyasi-Kundu/Netflix-Content-Analysis)
 This project began with my curiosity around Netflix’s vast content library — I wanted to understand what makes certain titles stand out. A Power BI project where I analyzed Netflix's global content library using data from Kaggle. From exploring genre popularity and country-wise production to comparing ratings between TV Shows and Movies — this dashboard reveals key trends in Netflix’s content strategy.
-Key KPIs include:
+- Key KPIs include:
 📅 Content Release Trends 🌍 Country Leaders 🎭 Genre Popularity ⭐ Average Ratings
 Insight: TV Shows score higher (avg. 7.18) than Movies (avg. 6.53), with a content boom from 2015–2020.
 
 🔎 Dive into the dashboard to explore what's trending on Netflix — interactively and visually.
+<h2>Overview of the Dashboard</h2>
+<p align="center">
+  <img src="dash_images/1_page-0001.jpg" width="700"/>
+</p>
 
